@@ -1,7 +1,7 @@
 {
-  "name": "",
+  "name": "sample-novel",
   "version": "1.0.0",
-  "description": "",
+  "description": "<h1 align=\"center\">Welcome to Novel-Template 👋</h1>\r <p>\r   <img alt=\"Version\" src=\"https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000\" />\r   <a href=\"https://github.com/haoblackj/Novel-Template#readme\" target=\"_blank\">\r     <img alt=\"Documentation\" src=\"https://img.shields.io/badge/documentation-yes-brightgreen.svg\" />\r   </a>\r   <a href=\"https://github.com/haoblackj/Novel-Template/graphs/commit-activity\" target=\"_blank\">\r     <img alt=\"Maintenance\" src=\"https://img.shields.io/badge/Maintained%3F-yes-green.svg\" />\r   </a>\r   <a href=\"https://github.com/haoblackj/Novel-Template/blob/master/LICENSE\" target=\"_blank\">\r     <img alt=\"License: MIT\" src=\"https://img.shields.io/github/license/haoblackj/Novel-Template\" />\r   </a>\r </p>",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -61,5 +61,13 @@
   },
   "dependencies": {
     "novel-builder": "^0.4.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/propos-jp/sample-novel.git"
+  },
+  "bugs": {
+    "url": "https://github.com/propos-jp/sample-novel/issues"
+  },
+  "homepage": "https://github.com/propos-jp/sample-novel#readme"
 }
